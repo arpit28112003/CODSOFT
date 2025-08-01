@@ -37,3 +37,8 @@ Connect with Me:-
 --College = Tecnia Institute of Advanced Studies     
 --University = GGSIPU    
 --LinkedIn Profile: www.linkedin.com/in/arpit-maheshwari-664392370    
+
+Error Handling
+If you attempt to delete a task that is not in the list, the application will ask you to check the spelling and try again.
+
+You cannot mark a task as completed if it doesn't exist in the list.

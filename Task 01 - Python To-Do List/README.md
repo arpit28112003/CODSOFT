@@ -60,10 +60,10 @@ More tasks and Python projects will be added soon!
 
 ## 📬 Contact Me
 
-Arpit Maheshwari
-Python Intern at Codsoft     
+Arpit Maheshwari      
+Python Intern at Codsoft       
 College = Tecnia Institute of Advanced Studies     
-University = GGSIPU
+University = GGSIPU    
 
 Feel free to connect or reach out for collaboration, feedback, or queries:
 

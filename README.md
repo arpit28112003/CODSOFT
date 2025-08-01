@@ -34,8 +34,8 @@ This repository contains all the tasks and projects completed as part of my **Co
 
 Feel free to connect with me for queries or collaborations:
 
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/your-link)
+- 📧 Email: arpit2m2003@gmail.com
+- 💼 LinkedIn: [LinkedIn](www.linkedin.com/in/arpit-maheshwari-664392370)
 ---
 
 _Thank you for visiting this repository! ⭐_

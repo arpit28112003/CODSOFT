@@ -1,4 +1,4 @@
-This is Task 1 of my Python Internship at Codsoft (20 July, 2025 to 20 August,2025)
+This is Task 1 of my Python Internship at Codsoft (20 July, 2025 to 20 August, 2025)
 Batch - B41
 
 

@@ -68,7 +68,7 @@ University = GGSIPU
 Feel free to connect or reach out for collaboration, feedback, or queries:
 
 - 📧 Email: arpit2m2003@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/arpit-maheshwari-664392370
+- 💼 LinkedIn: [LinkedIn]( www.linkedin.com/in/arpit-maheshwari-664392370 )
 
 ---
 

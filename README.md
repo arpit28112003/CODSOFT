@@ -1,4 +1,5 @@
-# 💻 CodSoft Python Programming Internship – Arpit Maheshwari
+# 💻 CodSoft Python Programming Internship – 
+# Arpit Maheshwari
 
 📅 **Internship Duration:** 20 July 2025 – 20 August 2025  
 🔢 **Batch:** B41  

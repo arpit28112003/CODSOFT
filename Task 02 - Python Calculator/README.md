@@ -30,3 +30,16 @@ A simple terminal-based calculator for beginners, written in Python. This progra
 
 ```bash
 python calculator.py
+
+ BASIC CALCULATOR
+
+1. Start
+2. Exit
+
+Enter your choice: 1
+Enter your first number: 5
+Enter your second number: 3
+
+Enter any one operand from( + , - , * , / ): +
+Sum is: 8
+

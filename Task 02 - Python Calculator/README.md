@@ -22,5 +22,13 @@ A simple terminal-based calculator for beginners, written in Python. This progra
 
 ---
 
+## 🛠️ How to Run
+
+1. Clone the repository or download the Python file.
+2. Open a terminal and navigate to the directory containing the file.
+3. Run the program using:
+
+```bash
+python calculator.py
 
 

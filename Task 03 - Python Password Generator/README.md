@@ -32,11 +32,48 @@ Python 3.x installed on your system.
 
 ## 🛠 How to Run
 
--- Clone the repository or copy the script into a .py file:  
+1. Clone the repository or copy the script into a .py file:  
    = Or simply run the script:  
--- Follow the prompts:
-   = Enter how many uppercase, lowercase, symbols, and numbers you want.
+2. Follow the prompts:  
+   = Enter how many uppercase, lowercase, symbols, and numbers you want.  
    = Choose one of the 5 randomly generated password suggestions.
+
+---
+
+## 📁 File Structure
+
+password_generator.py
+
+---
+
+## 📌 To Do / Improvements
+
+-- Add option to copy password to clipboard.
+-- Add GUI version using Tkinter or PyQt.
+-- Include password strength meter.
+-- Save passwords to a local file (optional and secure).
+-- Option to generate one password instead of five.
+
+---
+
+## 📬 Contact Me
+
+Arpit Maheshwari      
+Python Intern at Codsoft       
+College = Tecnia Institute of Advanced Studies     
+University = GGSIPU    
+
+Feel free to connect or reach out for collaboration, feedback, or queries:
+
+- 📧 Email: arpit2m2003@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/arpit-maheshwari-664392370 
+
+---
+
+_Thanks for visiting the repository! ⭐_
+
+
+
 
 
 

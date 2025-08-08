@@ -1,35 +1,34 @@
-🔐 ### PASSWORD GENERATOR IN PYTHON
+# 🔐 **PASSWORD GENERATOR IN PYTHON**
+
 A simple, interactive, and customizable password generator built with Python. Easily generate multiple strong passwords tailored to your needs!
 
-📌 FEATURES
-🔢 Generate five unique passwords at once
+---
 
-🔠 Customizable character count for:
+## 📌 **FEATURES**
 
-Capital letters (A-Z)
+- 🔢 Generate **five unique passwords** at once  
+- 🔠 Customizable character count for:
+  - **Capital letters** (A-Z)
+  - **Small letters** (a-z)
+  - **Symbols** (!@#$%&*?_+-=.)
+  - **Numbers** (0-9)
+- 🎲 Random combinations every time
+- 🖥️ User-friendly command-line interface
 
-Small letters (a-z)
+---
 
-Symbols (!@#$%&*?_+-=.)
+## 🚀 **GETTING STARTED**
 
-Numbers (0-9)
+### ✅ **Prerequisites**
 
-🎲 Random combinations every time
+- **Python 3** installed on your machine
 
-🖥️ User-friendly command-line interface
+### 🛠️ **How to Run**
 
-🚀 GETTING STARTED
-✅ Prerequisites
-Python 3 installed on your machine
-
-🛠️ How to Run
-Clone or download the code:
-
-bash
-Copy
-Edit
-git clone https://github.com/your-username/password-generator-python.git
-cd password-generator-python
+1. **Clone or download** the code:
+   ```bash
+   git clone https://github.com/your-username/password-generator-python.git
+   cd password-generator-python
 Run the script:
 
 bash
@@ -39,7 +38,7 @@ python password_generator.py
 Follow the prompts to generate your password(s)!
 
 🧪 EXAMPLE OUTPUT
-text
+mathematica
 Copy
 Edit
 --- PASSWORD GENERATOR ---
@@ -77,3 +76,13 @@ Your Name
 
 📄 LICENSE
 This project is licensed under the MIT License – feel free to use and modify.
+
+pgsql
+Copy
+Edit
+
+---
+
+✅ **Instructions**:
+- Replace `your-username` and `Your Name` with your actual GitHub username and name.
+- Save this as `README.md` in the same folder as your `.py` file.

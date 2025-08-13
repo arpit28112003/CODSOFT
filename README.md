@@ -23,7 +23,7 @@ A simple command-line To-Do List application where users can:
 - Mark tasks as completed  
 - View pending & completed tasks  
 
-🔗 **[Source Code](Task 01 - Python To-Do List)**  
+🔗 **[Source Code](https://github.com/arpit28112003/CODSOFT/tree/main/Task%2001%20-%20Python%20To-Do%20List)**  
 
 ---
 

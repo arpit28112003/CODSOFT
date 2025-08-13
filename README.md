@@ -1,42 +1,87 @@
-# 💻 CodSoft Python Programming Internship – 
-# Arpit Maheshwari
+# 🚀 CodSoft Internship – Python Programming  
 
-📅 **Internship Duration:** 20 July 2025 – 20 August 2025  
-🔢 **Batch:** B41  
-🎯 **Domain:** Python Programming
-
----
-
-## 📂 About This Repository
-
-This repository contains all the tasks and projects completed as part of my **CodSoft Python Programming Internship**. Each task showcases the practical application of core Python concepts including data handling, logic building, and real-world problem-solving.
+**Intern Name:** Arpit Maheshwari
+**Internship Duration:** 20 July 2025 – 20 August 2025  
+**Batch:** B41  
+**Intern ID:**   CS25RY95257
+**Domain:** Python Programming  
 
 ---
 
-## 🚀 Technologies Used
+## 📌 Overview  
 
-- Python 3.x
-- VS Code / PyCharm
-- Terminal / Command Prompt
-
----
-
-## 🧠 What I Learned
-
-- Writing modular and maintainable Python code
-- Implementing logic for real-life use cases
-- Error handling and user-friendly design
-- Basics of version control and GitHub collaboration
+This repository contains all the Python projects I completed during my **CodSoft Internship**.  
+The internship helped me strengthen my problem-solving skills, explore real-world applications of Python, and improve my programming logic.  
 
 ---
 
-## 📬 Contact Me
+## 📂 Projects  
 
-Feel free to connect with me for queries or collaborations:
+### 1️⃣ **Task 01 – To-Do List**  
+A simple command-line To-Do List application where users can:  
+- Add multiple tasks at once  
+- Mark tasks as completed  
+- View pending & completed tasks  
 
-- 📧 Email: arpit2m2003@gmail.com
-- 💼 LinkedIn: [LinkedIn](www.linkedin.com/in/arpit-maheshwari-664392370)
+🔗 **[Source Code](./Task01_ToDoList)**  
+
 ---
 
-_Thank you for visiting this repository! ⭐_
+### 2️⃣ **Task 02 – Basic Calculator**  
+A terminal-based calculator to perform basic arithmetic operations like:  
+- Addition  
+- Subtraction  
+- Multiplication  
+- Division  
+
+🔗 **[Source Code](./Task02_Calculator)**  
+
+---
+
+### 3️⃣ **Task 03 – Password Generator**  
+A Python script to generate strong and secure passwords based on:  
+- Length preference  
+- Use of uppercase, lowercase, numbers, and symbols  
+
+🔗 **[Source Code](./Task03_PasswordGenerator)**  
+
+---
+
+### 4️⃣ **Task 04 – Rock Paper Scissors**  
+A fun **Rock Paper Scissors** game where the player competes against the computer.  
+- Random computer moves  
+- Score tracking  
+- Replay option  
+
+🔗 **[Source Code](./Task04_RockPaperScissors)**  
+
+---
+
+## 🛠️ Tech Stack  
+
+- **Language:** Python  
+- **Libraries:** random, string, sys (varies by project)  
+- **Platform:** Command-Line Interface  
+
+---
+
+## 📜 Internship Experience  
+
+During my one-month internship at **CodSoft**, I learned:  
+- Writing clean & modular Python code  
+- Implementing user input & validation  
+- Working with Python libraries for real-world applications  
+- Debugging and improving program efficiency  
+
+---
+
+## 📧 Contact  
+
+💼 **GitHub:** [https://github.com/arpit28112003/CODSOFT] 
+📩 **Email:** [arpit2m2003@gmail.com]  
+📱 **LinkedIn:** [www.linkedin.com/in/arpit-maheshwari-664392370]  
+
+---
+
+**Thank you, CodSoft, for this amazing learning opportunity!** 🙌   
 

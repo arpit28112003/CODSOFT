@@ -23,7 +23,7 @@ A simple command-line To-Do List application where users can:
 - Mark tasks as completed  
 - View pending & completed tasks  
 
-🔗 **[Source Code](./Task01_ToDoList)**  
+🔗 **[Source Code](Task 01 - Python To-Do List)**  
 
 ---
 
@@ -34,7 +34,7 @@ A terminal-based calculator to perform basic arithmetic operations like:
 - Multiplication  
 - Division  
 
-🔗 **[Source Code](./Task02_Calculator)**  
+🔗 **[Source Code](Task 02 - Python Calculator)**  
 
 ---
 
@@ -43,7 +43,7 @@ A Python script to generate strong and secure passwords based on:
 - Length preference  
 - Use of uppercase, lowercase, numbers, and symbols  
 
-🔗 **[Source Code](./Task03_PasswordGenerator)**  
+🔗 **[Source Code](Task 03 - Python Password Generator)**  
 
 ---
 
@@ -53,7 +53,7 @@ A fun **Rock Paper Scissors** game where the player competes against the compute
 - Score tracking  
 - Replay option  
 
-🔗 **[Source Code](./Task04_RockPaperScissors)**  
+🔗 **[Source Code](Task 04 -  Python Rock Paper Scissors)**  
 
 ---
 

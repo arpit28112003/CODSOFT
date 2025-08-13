@@ -1,10 +1,10 @@
 # 🚀 CodSoft Internship – Python Programming  
 
-**Intern Name:** Arpit Maheshwari
-**Internship Duration:** 20 July 2025 – 20 August 2025  
-**Batch:** B41  
-**Intern ID:**   CS25RY95257
-**Domain:** Python Programming  
+**Intern Name:** Arpit Maheshwari     
+**Internship Duration:** 20 July 2025 – 20 August 2025   
+**Batch:** B41   
+**Intern ID:**   CS25RY95257    
+**Domain:** Python Programming   
 
 ---
 
@@ -34,7 +34,7 @@ A terminal-based calculator to perform basic arithmetic operations like:
 - Multiplication  
 - Division  
 
-🔗 **[Source Code](Task 02 - Python Calculator)**  
+🔗 **[Source Code](https://github.com/arpit28112003/CODSOFT/tree/main/Task%2002%20-%20Python%20Calculator)**  
 
 ---
 
@@ -43,7 +43,7 @@ A Python script to generate strong and secure passwords based on:
 - Length preference  
 - Use of uppercase, lowercase, numbers, and symbols  
 
-🔗 **[Source Code](Task 03 - Python Password Generator)**  
+🔗 **[Source Code](https://github.com/arpit28112003/CODSOFT/tree/main/Task%2003%20-%20Python%20Password%20Generator)**  
 
 ---
 
@@ -53,7 +53,7 @@ A fun **Rock Paper Scissors** game where the player competes against the compute
 - Score tracking  
 - Replay option  
 
-🔗 **[Source Code](Task 04 -  Python Rock Paper Scissors)**  
+🔗 **[Source Code](https://github.com/arpit28112003/CODSOFT/tree/main/Task%2004%20-%20%20Python%20Rock%20Paper%20Scissors)**  
 
 ---
 

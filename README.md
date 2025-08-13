@@ -77,9 +77,9 @@ During my one-month internship at **CodSoft**, I learned:
 
 ## 📧 Contact  
 
-💼 **GitHub:** [https://github.com/arpit28112003/CODSOFT] 
-📩 **Email:** [arpit2m2003@gmail.com]  
-📱 **LinkedIn:** [www.linkedin.com/in/arpit-maheshwari-664392370]  
+💼 **GitHub:** [https://github.com/arpit28112003/CODSOFT]     
+📩 **Email:** [arpit2m2003@gmail.com]     
+📱 **[LinkedIn](www.linkedin.com/in/arpit-maheshwari-664392370)**     
 
 ---
 
